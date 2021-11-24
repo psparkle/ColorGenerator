@@ -1,7 +1,7 @@
 # ColorGenerator
 PHP script for generating random, complimentary, and hot-highlight hex values for use in CSS.
 
-I always get bored of the color palletes I make for my site, so I wrote this script to create three colors:
+I always get bored of the color palettes I make for my site, so I wrote this script to create three colors:
 - A dark background color
 - A complimentary light color for content / contrast
 - A contrasting "hot" color for links / highlights etc.
